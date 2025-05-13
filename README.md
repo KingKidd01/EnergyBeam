@@ -6,3 +6,5 @@
 - Provided is a .RBXM in case anyone wanted to import it into their roblox place.
 - Has server and client files attached, when importing into studio without .RBXM makes sure to add a RemoteEvent titles "reaction".
 
+# Youtube Video - https://youtu.be/yQ_2KFFNieA
+
